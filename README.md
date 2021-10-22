@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amir Ghorbani
-- 👀 I’m interested in Mobile Development particularly Flutter, Dart, and Clean Architecture.
+- 👀 I’m interested in Mobile Development particularly with Flutter framework.
 - 🌱 I’m currently learning mobile app performance testing approaches.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me ...
