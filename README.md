@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Development particularly with Flutter framework.
 - 🌱 I’m currently learning mobile app performance testing approaches.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me ...
+- 📫 ghorbaniamir12696@gmail.com
 
 <!---
 ghorbaniam/ghorbaniam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
